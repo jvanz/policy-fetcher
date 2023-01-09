@@ -15,7 +15,7 @@ anyhow = "1.0"
 async-std = "1.9.0"
 async-stream = "0.3.3"
 async-trait = "0.1.52"
-base64 = "0.13.0"
+base64 = "0.21.0"
 directories = "4.0.1"
 lazy_static = "1.4.0"
 oci-distribution = { git = "https://github.com/krustlet/oci-distribution", rev = "0f717968093a5415f428503d741dedf24ea97948", default-features = false, features =  ["rustls-tls"] }
